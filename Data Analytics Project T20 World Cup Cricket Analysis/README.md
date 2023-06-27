@@ -28,7 +28,7 @@ The objective of this project is to extract T20 World Cup cricket data from the 
 
 ## Dependencies
 
-- Python 3.x
+- Python 
 - Beautiful Soup
 - Pandas
 - Power BI
