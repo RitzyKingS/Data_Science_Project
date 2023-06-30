@@ -5,6 +5,7 @@ This repository contains a machine learning project based on the Titanic dataset
 ## Dataset Description
 
 The Titanic dataset, available on Kaggle, consists of information about passengers on board the Titanic, including details such as their age, gender, class, fare, cabin, and survival status. The dataset is divided into two files: `train.csv` (containing the training set) and `test.csv` (containing the test set).
+Link to DataSet [Titanic](https://www.kaggle.com/competitions/titanic). 
 
 ## Key Features
 
