@@ -1,5 +1,3 @@
-Certainly! Here's the GitHub readme.md file for the Cyclistic Google Data Analytics Capstone project:
-
 # Cyclistic: Google Data Analytics Capstone
 
 This repository contains the Cyclistic Google Data Analytics Capstone project. The project focuses on analyzing and providing insights into the Cyclistic bike-sharing data to understand user behavior and develop data-driven recommendations to increase the number of annual members. The project follows the data analytics process, including data extraction, cleaning, analysis, and visualization, to derive meaningful insights and actionable recommendations.
