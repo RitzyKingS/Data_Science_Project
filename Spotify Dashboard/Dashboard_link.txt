@@ -1,0 +1,8 @@
+Link you can send in email
+
+https://app.powerbi.com/view?r=eyJrIjoiMTAyYmYzNDQtNTA4ZS00NzkxLTllZmItZDU4NjI1OTk1MWViIiwidCI6IjkzNjc3MWVmLTQ5ZTktNDU3MC1iMWFmLTUyYzY4NzI3MzQ3NyJ9
+
+
+HTML you can paste into a website
+
+<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTAyYmYzNDQtNTA4ZS00NzkxLTllZmItZDU4NjI1OTk1MWViIiwidCI6IjkzNjc3MWVmLTQ5ZTktNDU3MC1iMWFmLTUyYzY4NzI3MzQ3NyJ9" frameborder="0" allowFullScreen="true"></iframe>
