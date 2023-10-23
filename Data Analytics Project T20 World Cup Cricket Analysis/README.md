@@ -11,6 +11,9 @@ This project is based on the tutorial by [codebasics](https://www.youtube.com/wa
 
 The objective of this project is to extract T20 World Cup cricket data from the ESPN Cricinfo website, perform data analysis, and create interactive visualizations to gain insights into the tournament. The project utilizes a combination of web scraping techniques, data manipulation, and powerful visualization tools to provide a comprehensive analysis of the T20 World Cup matches.
 
+## Live Power BI Dashboard
+[Click here to access the live Power BI dashboard]([URL_TO_YOUR_LIVE_DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNDcyY2I5ZDQtMmFmNi00NDhmLTk5MDItOTBlNjg4MmRmOGI4IiwidCI6IjkzNjc3MWVmLTQ5ZTktNDU3MC1iMWFmLTUyYzY4NzI3MzQ3NyJ9&embedImagePlaceholder=true))
+
 ## Key Features
 
 - **Web scraping:** The project includes a Python script that leverages the BeautifulSoup library to scrape T20 World Cup cricket data from the ESPN Cricinfo website. The script extracts information such as match details, player statistics, team performance, and other relevant data.
