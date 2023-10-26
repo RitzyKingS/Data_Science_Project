@@ -3,6 +3,10 @@
 
 This repository contains an end-to-end sports data analytics project that focuses on analyzing T20 World Cup cricket data. The project encompasses web scraping, data processing using Python and pandas, and visualizations using Power BI.
 
+<h2> Website: 
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNDcyY2I5ZDQtMmFmNi00NDhmLTk5MDItOTBlNjg4MmRmOGI4IiwidCI6IjkzNjc3MWVmLTQ5ZTktNDU3MC1iMWFmLTUyYzY4NzI3MzQ3NyJ9&embedImagePlaceholder=true">Visit Now🚀</a>
+</h2> 
+
 # Project Credit
 
 This project is based on the tutorial by [codebasics](https://www.youtube.com/watch?v=4QkYy1wANXA&t=4898s&ab_channel=codebasics). All credit for the project goes to codebasics.
